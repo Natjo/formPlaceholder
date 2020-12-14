@@ -24,6 +24,8 @@ import placeholder from '../../modules/formPlaceholder/formPlaceholder.js';
 placeholder();
 ```
 
+## Add css to form styles
+
 ```css
 .field{
         z-index: 0;
